@@ -22,5 +22,5 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ## Imagem do Projeto
 
-![Clonagem da Página da Tesla](readme-assets/tesla-page-readme.png)
+![Clonagem da Página da Tesla](assets/carros.png)
 
