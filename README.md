@@ -22,6 +22,5 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 ## Imagem do Projeto
 
-![Clonagem da Página da Tesla](![image](https://github.com/gigasperini/pagina-tesla/assets/152024831/4bf9ea29-908e-45c9-8ec2-c044acb7bcba)
-)
+![image](https://github.com/gigasperini/pagina-tesla/assets/152024831/58afa9e3-1038-42e2-b7f6-4e5da058aae9)
 
